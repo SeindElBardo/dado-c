@@ -44,6 +44,9 @@
 	int d12 (){
 		return tirar(12);
 	}
+	int d8 (){
+		return tirar(8);
+	}
 	int d6 (){
 		return tirar(6);
 	}
